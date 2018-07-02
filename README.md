@@ -15,5 +15,13 @@ base on the language
 make more reserach on NLP
 what is positive really mean?
 
+rule?
+
+hundred tweet 
+keyword analysis
+
+how feeling's change
+
+
 
 #### Geolocation mapping
